@@ -1,4 +1,0 @@
-# GitHub Pages configuration
-# Ensure app-ads.txt and other text files are served as-is
-include:
-  - app-ads.txt
